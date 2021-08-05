@@ -1,0 +1,12 @@
+- title: 'Google Developer Student Club MRIIRS' # for <title> tag
+  description: 'Google Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems' #Meta description
+  university: 'MRIIRS'
+  lang: 'en'
+  register: 'https://bit.ly/2TUwUIk' # optional
+  calendar: '' # optional
+  community: 'https://gdsc.community.dev/manav-rachna-international-institute-of-research-studies/'
+  mail: 'mriirsdsc@gmail.com' # optional
+  social:
+    youtube: 'https://www.youtube.com/channel/UCTD34th0vM-09Nt9Jf0jMWg'
+    github: 'https://github.com/dscmriirs'
+    linkedin: 'https://www.linkedin.com/company/dscmriirs'

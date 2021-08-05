@@ -1,0 +1,66 @@
+- name: Pranav Agarwal
+  role: GDSC Lead
+  img: images/teams/pranav.jpg
+  descs:
+    - Full Stack developer
+    - Open source enthusiast
+    - Cyber Security enthusiast
+  social:
+    github: https://github.com/pranav2012/
+    linkedin: 'https://www.linkedin.com/in/pranav-agarwal-579363166/'
+    
+- name: Nishta Singh
+  role: GDSC Mentor
+  img: images/teams/nishta.png
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - Quantum Computing
+  social:
+    # github: https://github.com
+    linkedin: 'https://www.linkedin.com/in/nisthasingh05'
+
+- name: Utkarsh Bansal
+  role: GDSC Core Member
+  img: images/teams/Utkarsh.png
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - AI / ML Developer
+  social:
+    # github: https://github.com
+    linkedin: 'https://www.linkedin.com/in/utkarsh-bansal0203/'
+    
+- name: Joy Singh
+  role: GDSC Core Member
+  img: images/teams/joy.png
+  descs:
+    - I.O.T enthusiast
+    - Open source enthusiast
+    - Web developer
+  social:
+    # github: https://github.com
+    linkedin: 'https://www.linkedin.com/in/joy-singh-785199200/'
+
+- name: Prerna Sidana
+  role: GDSC Core Member
+  img: images/teams/prerna.png
+  descs:
+    - Web developer
+    - AI / ML Developer
+    - Flutter Developer
+  social:
+    github: 'https://github.com/prernasidana12/'
+    linkedin: 'https://www.linkedin.com/in/prernasidana/'
+    
+- name: Anurag Tiwari
+  role: GDSC Core Member
+  img: images/teams/anurag.png
+  descs:
+    - Web Stack developer
+    - Open source enthusiast
+    - AI / ML Developer
+  social:
+    # github: https://github.com
+    linkedin: 'https://www.linkedin.com/in/anurag-tiwari040/'
+    
