@@ -36,8 +36,8 @@
   img: images/teams/joy.png
   descs:
     - I.O.T enthusiast
-    - Open source enthusiast
-    - Web developer
+    - Electronics enthusiast
+    - Digital Circuit engineer
   social:
     # github: https://github.com
     linkedin: 'https://www.linkedin.com/in/joy-singh-785199200/'
@@ -46,7 +46,7 @@
   role: GDSC Core Member
   img: images/teams/prerna.png
   descs:
-    - Web developer
+    - Cyber Security enthusiast
     - AI / ML Developer
     - Flutter Developer
   social:
