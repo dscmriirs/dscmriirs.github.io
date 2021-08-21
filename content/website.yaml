@@ -2,7 +2,7 @@
   description: 'Google Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems' #Meta description
   university: 'MRIIRS'
   lang: 'en'
-  register: 'https://bit.ly/2TUwUIk' # optional
+  register: 'https://gdsc.community.dev/manav-rachna-international-institute-of-research-studies/' # optional
   calendar: '' # optional
   community: 'https://gdsc.community.dev/manav-rachna-international-institute-of-research-studies/'
   mail: 'mriirsdsc@gmail.com' # optional

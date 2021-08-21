@@ -51,9 +51,9 @@ const Nav = ({ register }) => {
             <BsNav.Item>
               <BsNav.Link href="#technologies">Technologies</BsNav.Link>
             </BsNav.Item>
-            {/* <BsNav.Item>
+            <BsNav.Item>
               <BsNav.Link href="#workshops">Workshops</BsNav.Link>
-            </BsNav.Item> */}
+            </BsNav.Item>
             <BsNav.Item>
               <BsNav.Link href="#team">Team</BsNav.Link>
             </BsNav.Item>

@@ -7,6 +7,7 @@ import Technologies from '../components/index/Technologies'
 import Teams from '../components/index/Teams'
 import Faqs from '../components/index/Faqs'
 import Location from '../components/index/Location'
+import Workshops from '../components/index/Workshops';
 import './styles.scss'
 
 const Index = () => (
@@ -15,6 +16,7 @@ const Index = () => (
     <Overviews />
     <Opportunities />
     <Technologies />
+    <Workshops />
     <Teams />
     <Faqs />
     <Location />

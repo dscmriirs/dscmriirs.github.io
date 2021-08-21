@@ -1,5 +1,5 @@
 - name: Pranav Agarwal
-  role: GDSC Lead
+  role: GDSC Lead / Web Team Head
   img: images/teams/pranav.jpg
   descs:
     - Full Stack developer
@@ -8,31 +8,20 @@
   social:
     github: https://github.com/pranav2012/
     linkedin: 'https://www.linkedin.com/in/pranav-agarwal-579363166/'
-    
-- name: Nishta Singh
-  role: GDSC Mentor
-  img: images/teams/nishta.png
-  descs:
-    - Web developer
-    - Open source enthusiast
-    - Quantum Computing
-  social:
-    # github: https://github.com
-    linkedin: 'https://www.linkedin.com/in/nisthasingh05'
 
-- name: Utkarsh Bansal
-  role: GDSC Core Member
-  img: images/teams/Utkarsh.png
+- name: Prerna Sidana
+  role: GDSC Core Mentor / Android Team Head
+  img: images/teams/prerna.png
   descs:
-    - Web developer
-    - Open source enthusiast
+    - Cyber Security enthusiast
     - AI / ML Developer
+    - Flutter Developer
   social:
-    # github: https://github.com
-    linkedin: 'https://www.linkedin.com/in/utkarsh-bansal0203/'
-    
+    github: 'https://github.com/prernasidana12/'
+    linkedin: 'https://www.linkedin.com/in/prernasidana/'
+
 - name: Joy Singh
-  role: GDSC Core Member
+  role: GDSC Core Mentor / I.O.T Team Head
   img: images/teams/joy.png
   descs:
     - I.O.T enthusiast
@@ -42,19 +31,30 @@
     # github: https://github.com
     linkedin: 'https://www.linkedin.com/in/joy-singh-785199200/'
 
-- name: Prerna Sidana
-  role: GDSC Core Member
-  img: images/teams/prerna.png
+- name: Utkarsh Bansal
+  role: GDSC Core Mentor / ML Team Head
+  img: images/teams/Utkarsh.png
   descs:
-    - Cyber Security enthusiast
+    - Deep Learning
+    - Open source enthusiast
     - AI / ML Developer
-    - Flutter Developer
   social:
-    github: 'https://github.com/prernasidana12/'
-    linkedin: 'https://www.linkedin.com/in/prernasidana/'
-    
-- name: Anurag Tiwari
-  role: GDSC Core Member
+    # github: https://github.com
+    linkedin: 'https://www.linkedin.com/in/utkarsh-bansal0203/'
+
+- name: Aishwarya Nair
+  role: GDSC Core Member / Cyber Team Head
+  img: images/teams/Aishwarya.jpg
+  descs:
+    - Cyber Security
+    - Open source enthusiast
+    - Web developer
+  social:
+    github: https://github.com/AishwaryaNair687
+    linkedin: 'https://www.linkedin.com/in/aishwarya-nair-b2444418b/'  
+
+- name: Anurag Tiwari 
+  role: GDSC Core Member / Cloud Team Head
   img: images/teams/anurag.png
   descs:
     - Web Stack developer
@@ -63,4 +63,91 @@
   social:
     # github: https://github.com
     linkedin: 'https://www.linkedin.com/in/anurag-tiwari040/'
-    
+
+- name: Sudhanshu Kumar Jha
+  role: GDSC Core Member / Electronics Team Head
+  img: images/teams/Sudhanshu.jpeg
+  descs:
+    - Micro-Electronics
+    - Open source enthusiast
+    - Electronics enthusiast
+  social:
+    # github: 
+    linkedin: 'https://www.linkedin.com/in/sudhanshukumarjha'  
+
+- name: Srishti Arora
+  role: GDSC Core Member / Development Team Head
+  img: images/teams/Srishti.jpeg
+  descs:
+    - AI / ML Developer
+    - Open source enthusiast
+    - Python Developer
+  social:
+    github: https://github.com/THC1111
+    linkedin: 'https://www.linkedin.com/in/srishti-arora-0a8650176/'   
+
+- name: Aditya Narayan Mishra
+  role: GDSC Core Member / Event Team Head
+  img: images/teams/Aditya.jpeg
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - C/C++ Developer
+  social:
+    github: https://github.com/itsaadimishra
+    linkedin: 'https://www.linkedin.com/in/aditya-mishra-a43148168/'  
+
+- name: Love Kaushik
+  role: GDSC Cloud Team Member
+  img: images/teams/Love.jpeg
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - Cloud Computing
+  social:
+    github: https://github.com/LoveKaushik2001
+    linkedin: 'https://www.linkedin.com/in/lovekaushik'
+
+- name: Nikita Chamoli
+  role: GDSC Marketing Team Head
+  img: images/teams/Nikita.jpeg
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - Social Media / Marketing
+  social:
+    # github: https://github.com/LoveKaushik2001
+    linkedin: 'https://www.linkedin.com/in/nikita-chamoli-885087190/'   
+
+- name: Saurabh Raturi
+  role: GDSC Development Team Member
+  img: images/teams/Saurabh.jpeg
+  descs:
+    - App developer
+    - Open source enthusiast
+    - Electronics enthusiast
+  social:
+    github: https://github.com/saurabhraturi2000
+    linkedin: 'https://www.linkedin.com/in/saurabh-raturi-6b0a13196'  
+
+- name: Geet Kaushik
+  role: GDSC Web Team Member
+  img: images/teams/Geet.jpeg
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - Cyber Security enthusiast
+  social:
+    github: https://github.com/GeetKaushik
+    linkedin: 'https://www.linkedin.com/in/shrutika-saxena-390818216'  
+
+- name: Sairam Kaushik
+  role: GDSC Cyber Team Member
+  img: images/teams/Sai.jpeg
+  descs:
+    - Web developer
+    - Open source enthusiast
+    - Cyber Security enthusiast
+  social:
+    github: https://github.com/sai-ram-kaushik
+    linkedin: 'https://www.linkedin.com/in/sairam-kaushik-711a40210/' 

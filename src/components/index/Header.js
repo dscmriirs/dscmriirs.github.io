@@ -29,7 +29,7 @@ const Header = () => {
               <div className="hero-title__group">
                 <div className="hero-title">
                   <h2 className="zuri">
-                    Google Developer Student Club <br /> {university} University.
+                    Google Developer Student Club <br /> {university}.
                   </h2>
                 </div>
                 <div className="Hero--Subtitle">
